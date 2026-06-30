@@ -37,10 +37,17 @@
 
 ---
 
-### 📊 Stats
+### 💬 Sobre mí
+
+> Apasionado por crear interfaces web modernas, rápidas y accesibles.  
+> Transformo ideas en experiencias digitales funcionales.
+
+---
+
+### 🏆 Logros
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NelDurv&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;text_color=8b949e&amp;icon_color=0EA5A0&amp;title_color=0EA5A0" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NelDurv&amp;theme=onedark&amp;no-frame=true&amp;column=4&amp;margin-w=15&amp;margin-h=15" />
 </p>
 
 ---
@@ -53,3 +60,4 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0EA5A0&amp;height=120&amp;section=footer">
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=103758&amp;height=120&amp;section=footer" width="100%">
 </picture>
+
