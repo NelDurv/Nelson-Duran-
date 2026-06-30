@@ -41,8 +41,12 @@
         line-height: 1.5;
         color: var(--text);
         background: var(--bg);
+        background-image: radial-gradient(circle at top right, rgba(255,200,120,0.3) 0%, transparent 60%);
         -webkit-font-smoothing: antialiased;
         transition: background 0.3s, color 0.3s;
+      }
+      .dark body {
+        background-image: radial-gradient(circle at top right, rgba(255,180,80,0.08) 0%, transparent 60%);
       }
       body.rtl { direction: rtl; text-align: right; }
 
@@ -212,37 +216,48 @@
       .tech-strip {
         display: none;
       }
-      @media (min-width: 1024px) {
+      .tech-strip {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 3px;
+        position: fixed;
+        right: 0.5rem;
+        top: 50%;
+        transform: translateY(-50%);
+        width: 40px;
+        background: rgba(16,55,88,0.12);
+        backdrop-filter: blur(12px);
+        border: 1px solid rgba(255,255,255,0.08);
+        border-radius: 20px;
+        padding: 0.75rem 0.4rem;
+        z-index: 999;
+        box-shadow: 0 8px 32px rgba(16,55,88,0.15);
+      }
+      .dark .tech-strip {
+        background: rgba(16,55,88,0.35);
+        border: 1px solid rgba(14,165,160,0.15);
+        box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+      }
+      .tech-strip img {
+        width: 22px;
+        height: 22px;
+        transition: transform 0.3s ease;
+      }
+      .tech-strip img:hover {
+        transform: scale(1.2);
+      }
+      @media (min-width: 768px) {
         .tech-strip {
-          display: flex;
-          flex-direction: column;
-          align-items: center;
-          justify-content: space-around;
-          position: absolute;
           right: 1rem;
-          top: 100px;
-          bottom: 7rem;
           width: 60px;
-          background: rgba(16,55,88,0.15);
-          backdrop-filter: blur(12px);
-          border: 1px solid rgba(255,255,255,0.08);
-          border-radius: 30px;
+          gap: 10px;
           padding: 1rem 0.5rem;
-          z-index: 2;
-          box-shadow: 0 8px 32px rgba(16,55,88,0.15);
-        }
-        .dark .tech-strip {
-          background: rgba(16,55,88,0.4);
-          border: 1px solid rgba(14,165,160,0.15);
-          box-shadow: 0 8px 32px rgba(0,0,0,0.3);
         }
         .tech-strip img {
           width: 28px;
           height: 28px;
-          transition: transform 0.3s ease;
-        }
-        .tech-strip img:hover {
-          transform: scale(1.2);
         }
       }
       .hero-badge {
