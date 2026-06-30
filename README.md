@@ -1,20 +1,18 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0EA5A0&height=200&section=header&text=NelDurv&fontSize=70&fontColor=fff&animation=twinkling">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=103758&height=200&section=header&text=Nelson+Duran&fontSize=70&fontColor=fff&animation=twinkling" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0EA5A0&amp;height=200&amp;section=header&amp;text=Nelson%20Dur%C3%A1n&amp;fontSize=50&amp;fontColor=fff&amp;animation=twinkling">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=103758&amp;height=200&amp;section=header&amp;text=Nelson%20Dur%C3%A1n&amp;fontSize=50&amp;fontColor=fff&amp;animation=twinkling" width="100%">
 </picture>
 
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&pause=1000&color=0EA5A0&center=true&vCenter=true&random=false&width=435&lines=Desarrollador+Frontend+Junior;Creando+experiencias+web+%C3%BAnicas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&amp;weight=600&amp;size=24&amp;pause=1000&amp;color=0EA5A0&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=435&amp;lines=Desarrollador+Frontend+Junior;Creando+experiencias+web+%C3%BAnicas" alt="Typing SVG" />
 </p>
 
 <br>
 
 <p align="center">
-  <a href="https://neldurv.github.io/Nelson-Duran-/">
-    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portafolio%20Web-103758?style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>
+  <a href="https://neldurv.github.io/Nelson-Duran-/">🌐 Portafolio Web</a>
 </p>
 
 <br>
@@ -25,15 +23,15 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue.js"/>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
 </p>
 
@@ -48,12 +46,10 @@
 ---
 
 <p align="center">
-  <a href="https://neldurv.github.io/Nelson-Duran-/">
-    <img src="https://img.shields.io/badge/%F0%9F%91%89%20Ver%20mi%20Portafolio%20%F0%9F%91%88-0EA5A0?style=for-the-badge">
-  </a>
+  <a href="https://neldurv.github.io/Nelson-Duran-/">👉 Visita mi Portafolio 👈</a>
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0EA5A0&height=120&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=103758&height=120&section=footer" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0EA5A0&amp;height=120&amp;section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=103758&amp;height=120&amp;section=footer" width="100%">
 </picture>
