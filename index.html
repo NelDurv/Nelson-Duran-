@@ -408,17 +408,13 @@
         text-align: center;
         padding: 1rem;
       }
-      .hero-img-bg .avatar-placeholder .circle {
+      .hero-img-bg .avatar-placeholder .profile-photo {
         width: 200px;
         height: 200px;
         border-radius: 50%;
-        background: rgba(255,255,255,0.2);
-        margin: 0 auto;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        color: #fff;
-        font-size: 5rem;
+        object-fit: cover;
+        border: 4px solid rgba(255,255,255,0.3);
+        box-shadow: 0 8px 32px rgba(0,0,0,0.3);
       }
 
       /* ===== SECTION COMMON ===== */
@@ -1014,9 +1010,7 @@
               </div>
               <h2>Nelson Durán</h2>
               <div class="avatar-placeholder">
-                <div class="circle">
-                  <i class="uil uil-user"></i>
-                </div>
+                <img src="img/foto.png" alt="Nelson Durán" class="profile-photo" />
               </div>
             </div>
           </div>
