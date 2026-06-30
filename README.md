@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0EA5A0&height=200&section=header&text=NelDurv&fontSize=70&fontColor=fff&animation=twinkling">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=103758&height=200&section=header&text=NelDurv&fontSize=70&fontColor=fff&animation=twinkling" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=103758&height=200&section=header&text=Nelson+Duran&fontSize=70&fontColor=fff&animation=twinkling" width="100%">
 </picture>
 
 <br>
@@ -42,9 +42,7 @@
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NelDurv&show_icons=true&theme=transparent&hide_border=true&text_color=8b949e&icon_color=0EA5A0&title_color=0EA5A0&card_width=400" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelDurv&layout=compact&theme=transparent&hide_border=true&text_color=8b949e&title_color=0EA5A0&card_width=400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NelDurv&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;text_color=8b949e&amp;icon_color=0EA5A0&amp;title_color=0EA5A0" />
 </p>
 
 ---
@@ -59,4 +57,3 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0EA5A0&height=120&section=footer">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=103758&height=120&section=footer" width="100%">
 </picture>
-
