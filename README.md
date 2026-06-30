@@ -44,14 +44,6 @@
 
 ---
 
-### 🏆 Logros
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NelDurv&amp;theme=onedark&amp;no-frame=true&amp;column=4&amp;margin-w=15&amp;margin-h=15" />
-</p>
-
----
-
 <p align="center">
   <a href="https://neldurv.github.io/Nelson-Duran-/">👉 Visita mi Portafolio 👈</a>
 </p>
@@ -60,4 +52,3 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0EA5A0&amp;height=120&amp;section=footer">
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=103758&amp;height=120&amp;section=footer" width="100%">
 </picture>
-
